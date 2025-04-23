@@ -8,7 +8,7 @@ Before you jump in, let's get clear on what open source means. Wikipedia defines
 
 > Open source is source code that is made freely available for possible modification and redistribution.
 
-At its core, it's a community of people around the world that wants to write code, not for money, but because we believe that something should exist in the world and we want to share it with everyone!
+At its core, it's a community of people around the world who want to write code, not for money, but because we believe that something should exist in the world and we want to share it with everyone!
 
 But beyond that, open source work can have a lot of benefits for career and professional growth as well.
 
